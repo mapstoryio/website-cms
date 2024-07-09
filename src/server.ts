@@ -43,7 +43,7 @@ const start = async (): Promise<void> => {
     payload.logger.info(`Server listening on port ${process.env.PORT}`)
   })
 
-  syncToAlgoliaCron.start()
+ // syncToAlgoliaCron.start()
 }
 
 start()
