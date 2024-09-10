@@ -61,7 +61,7 @@ export const Users: CollectionConfig = {
       name: 'roles',
       type: 'select',
       hasMany: true,
-      defaultValue: ['public'],
+      defaultValue: ['admin'],
       required: true,
       access: {
         read: isAdminOrSelfFieldLevel,

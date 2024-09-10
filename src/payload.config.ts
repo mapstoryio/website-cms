@@ -79,6 +79,7 @@ export default buildConfig({
   db: mongooseAdapter({
     url: process.env.DATABASE_URI,
   }),
+
   plugins: [
     formBuilder({
       formOverrides: {
@@ -147,7 +148,7 @@ export default buildConfig({
       collections: ['case-studies', 'pages', 'posts'],
     }),
   ],
-  cors: [process.env.PAYLOAD_PUBLIC_APP_URL || '', 'https://payloadcms.com'].filter(Boolean),
+  cors:["https://demo.mapstory.io"],//[process.env.PAYLOAD_PUBLIC_APP_URL || '', 'https://payloadcms.com'].filter(Boolean),
   admin: {
     bundler: webpackBundler(),
     webpack: config => ({

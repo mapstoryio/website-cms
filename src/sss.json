@@ -1,0 +1,1521 @@
+{
+  "navItems": [
+      {
+          "link": {
+              "type": "reference",
+              "reference": {
+                  "value": "6429f73faea011d1b4735131",
+                  "relationTo": "pages"
+              },
+              "label": "Cloud Pricing"
+          },
+          "id": "642ac843c802f0015b226392"
+      },
+      {
+          "link": {
+              "type": "custom",
+              "url": "/docs/getting-started/what-is-payload",
+              "label": "Docs"
+          },
+          "id": "6356eb9f28e48683b280c31a"
+      },
+      {
+          "link": {
+              "type": "custom",
+              "url": "/for-enterprise",
+              "label": "For Enterprise"
+          },
+          "id": "6356ebdb28e48683b280c31c"
+      },
+      {
+          "link": {
+              "type": "custom",
+              "reference": {
+                  "value": "6363f57fe2d7a415f906bf57",
+                  "relationTo": "pages"
+              },
+              "url": "/community-help",
+              "label": "Community Help"
+          },
+          "id": "637112ee4759ab4f6d59135b"
+      },
+      {
+          "link": {
+              "type": "custom",
+              "url": "/blog",
+              "label": "Blog"
+          },
+          "id": "6356ebee28e48683b280c31d"
+      }
+  ],
+  "globalType": "main-menu",
+  "createdAt": "2022-10-24T19:47:08.352Z",
+  "updatedAt": "2024-07-02T16:58:04.668Z",
+  "tabs": [
+      {
+          "label": "Use Cases",
+          "enableDirectLink": true,
+          "enableDropdown": true,
+          "link": {
+              "type": "reference",
+              "reference": {
+                  "value": {
+                      "id": "65dd43d561b3c803918e03d4",
+                      "title": "Use Cases",
+                      "fullTitle": "Use Cases",
+                      "hero": {
+                          "type": "centeredContent",
+                          "fullBackground": true,
+                          "theme": "light",
+                          "breadcrumbsBarLinks": [],
+                          "livestream": {
+                              "guests": []
+                          },
+                          "announcementLink": {
+                              "type": "reference"
+                          },
+                          "richText": [
+                              {
+                                  "children": [
+                                      {
+                                          "text": "Simplify your stack."
+                                      }
+                                  ],
+                                  "type": "h1"
+                              },
+                              {
+                                  "children": [
+                                      {
+                                          "text": "From code to content, Payload's open-source flexibility and maintainability supports a wide range of development and marketing use cases."
+                                      }
+                                  ]
+                              }
+                          ],
+                          "description": [
+                              {
+                                  "children": [
+                                      {
+                                          "text": ""
+                                      }
+                                  ]
+                              }
+                          ],
+                          "primaryButtons": [],
+                          "links": [],
+                          "buttons": [],
+                          "secondaryButtons": [],
+                          "images": [
+                              {
+                                  "image": "65d5173d26bb99d00a47dfa7",
+                                  "id": "65dd4902ef3d71fc0a074109"
+                              },
+                              {
+                                  "image": "65d4e9d93fe79d947588ff90",
+                                  "id": "65dd4a8cef3d71fc0a07410a"
+                              }
+                          ],
+                          "logos": [],
+                          "newsletter": {}
+                      },
+                      "layout": [
+                          {
+                              "hoverHighlightsFields": {
+                                  "settings": {
+                                      "theme": "dark"
+                                  },
+                                  "beforeHighlights": "",
+                                  "highlights": [
+                                      {
+                                          "text": "Headless CMS.",
+                                          "media": {
+                                              "top": "666af6b6904ad2661cbbea88"
+                                          },
+                                          "link": {
+                                              "type": "reference",
+                                              "reference": {
+                                                  "value": "65aecafefa327a41786d6431",
+                                                  "relationTo": "pages"
+                                              }
+                                          },
+                                          "id": "667c38d1faa3820b6bd690d1"
+                                      },
+                                      {
+                                          "text": "Headless eCommerce.",
+                                          "media": {
+                                              "top": "666b0c26904ad2661cbbf1ea",
+                                              "bottom": "666b0c3b904ad2661cbbf1f6"
+                                          },
+                                          "link": {
+                                              "type": "reference",
+                                              "reference": {
+                                                  "value": "6515c182679a6536704e5988",
+                                                  "relationTo": "pages"
+                                              }
+                                          },
+                                          "id": "667c38f8faa3820b6bd690d2"
+                                      },
+                                      {
+                                          "text": "Enterprise App Builder.",
+                                          "media": {
+                                              "top": "666b1827904ad2661cbc0048",
+                                              "bottom": "666b183a904ad2661cbc006c"
+                                          },
+                                          "link": {
+                                              "type": "reference",
+                                              "reference": {
+                                                  "value": "65d8c8e5fa0a8be86415cde0",
+                                                  "relationTo": "pages"
+                                              }
+                                          },
+                                          "id": "667c3924faa3820b6bd690d3"
+                                      },
+                                      {
+                                          "text": "Digital Asset Management.",
+                                          "media": {
+                                              "top": "666af88d904ad2661cbbebb4"
+                                          },
+                                          "link": {
+                                              "type": "reference",
+                                              "reference": {
+                                                  "value": "65d78062fa286280ee430772",
+                                                  "relationTo": "pages"
+                                              }
+                                          },
+                                          "id": "667c3967faa3820b6bd690d4"
+                                      }
+                                  ],
+                                  "afterHighlights": "Power anything you can imagine.",
+                                  "link": {
+                                      "type": "reference",
+                                      "reference": {
+                                          "value": "6362714c8500b86c17b16b78",
+                                          "relationTo": "pages"
+                                      },
+                                      "label": "Schedule a demo"
+                                  }
+                              },
+                              "id": "667c38bafaa3820b6bd690d0",
+                              "blockType": "hoverHighlights"
+                          }
+                      ],
+                      "slug": "use-cases",
+                      "meta": {
+                          "title": "From websites to apps, what you can build with Payload",
+                          "description": "From code to content, Payload's open-source flexibility and maintainability supports a wide range of development and marketing use cases.\n",
+                          "image": "65e894b489978aecfc155588"
+                      },
+                      "breadcrumbs": [
+                          {
+                              "doc": "65dd43d561b3c803918e03d4",
+                              "url": "/use-cases",
+                              "label": "Use Cases",
+                              "id": "667c3a21bf351782dce1a8d2"
+                          }
+                      ],
+                      "_status": "published",
+                      "createdAt": "2024-02-27T02:07:17.278Z",
+                      "updatedAt": "2024-06-26T15:56:17.901Z"
+                  },
+                  "relationTo": "pages"
+              }
+          },
+          "description": "Simplify your stack and build anything. Or everything.",
+          "descriptionLinks": [],
+          "navItems": [
+              {
+                  "style": "default",
+                  "defaultLink": {
+                      "link": {
+                          "type": "reference",
+                          "reference": {
+                              "value": {
+                                  "id": "65aecafefa327a41786d6431",
+                                  "title": "Headless CMS",
+                                  "fullTitle": "Use Cases > Headless CMS",
+                                  "hero": {
+                                      "type": "gradient",
+                                      "fullBackground": true,
+                                      "theme": "dark",
+                                      "enableBreadcrumbsBar": true,
+                                      "breadcrumbsBarLinks": [
+                                          {
+                                              "link": {
+                                                  "type": "custom",
+                                                  "newTab": true,
+                                                  "url": "https://payloadcms.com/new/clone/website",
+                                                  "label": "Start a Project"
+                                              },
+                                              "id": "65e60808c1920c3fb2694393"
+                                          },
+                                          {
+                                              "link": {
+                                                  "type": "reference",
+                                                  "newTab": true,
+                                                  "reference": {
+                                                      "value": "6362714c8500b86c17b16b78",
+                                                      "relationTo": "pages"
+                                                  },
+                                                  "url": "Sch",
+                                                  "label": "Schedule a Demo"
+                                              },
+                                              "id": "65ddf7bc6409981dedd025ec"
+                                          }
+                                      ],
+                                      "livestream": {
+                                          "guests": []
+                                      },
+                                      "announcementLink": {
+                                          "type": "reference"
+                                      },
+                                      "richText": [
+                                          {
+                                              "children": [
+                                                  {
+                                                      "text": "Create content on your terms."
+                                                  }
+                                              ],
+                                              "type": "h1"
+                                          }
+                                      ],
+                                      "description": [
+                                          {
+                                              "children": [
+                                                  {
+                                                      "text": "Creating content shouldn’t require a PhD. With Payload, a minimal and elegant editing experience facilitates the power running behind the scenes. "
+                                                  }
+                                              ]
+                                          }
+                                      ],
+                                      "primaryButtons": [],
+                                      "links": [
+                                          {
+                                              "link": {
+                                                  "type": "reference",
+                                                  "reference": {
+                                                      "value": "6362714c8500b86c17b16b78",
+                                                      "relationTo": "pages"
+                                                  },
+                                                  "label": "Schedule a Demo",
+                                                  "appearance": "default"
+                                              },
+                                              "id": "65b026960e70406332d7af0e"
+                                          }
+                                      ],
+                                      "buttons": [],
+                                      "secondaryButtons": [],
+                                      "images": [
+                                          {
+                                              "image": "65e1f92a3044e667c2d50d0c",
+                                              "id": "65d516070cd4ed405835a9cb"
+                                          }
+                                      ],
+                                      "media": "65d397cfbe4c0211979ab1e2",
+                                      "logos": [],
+                                      "newsletter": {}
+                                  },
+                                  "layout": [
+                                      {
+                                          "mediaContentFields": {
+                                              "settings": {
+                                                  "theme": "light"
+                                              },
+                                              "alignment": "contentMedia",
+                                              "richText": [
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "VISUAL EDITING\n"
+                                                          }
+                                                      ],
+                                                      "type": "h6"
+                                                  },
+                                                  {
+                                                      "type": "h3",
+                                                      "children": [
+                                                          {
+                                                              "text": "What you see is (actually) what you get"
+                                                          }
+                                                      ]
+                                                  },
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "Effortlessly build and visualize the look and feel of your content alongside your team members—all in real-time. It’s the way content authoring was meant to be."
+                                                          }
+                                                      ]
+                                                  }
+                                              ],
+                                              "enableLink": true,
+                                              "link": {
+                                                  "type": "reference",
+                                                  "reference": {
+                                                      "value": "6582fb422693ab4da8ed728c",
+                                                      "relationTo": "pages"
+                                                  },
+                                                  "label": "Explore"
+                                              },
+                                              "images": [
+                                                  {
+                                                      "image": "6614330f0acbdc9bd43de069",
+                                                      "id": "65d519ba7124163de842fb49"
+                                                  }
+                                              ]
+                                          },
+                                          "id": "65aecba1a032877c50eb9fdf",
+                                          "blockName": "visual editor",
+                                          "blockType": "mediaContent"
+                                      },
+                                      {
+                                          "reusableContentBlockFields": {
+                                              "settings": {},
+                                              "reusableContent": "6581b3f22693ab4da8e9ab0c"
+                                          },
+                                          "id": "65e0e52d140e55ba5b45a1d1",
+                                          "blockType": "reusableContentBlock"
+                                      },
+                                      {
+                                          "statementFields": {
+                                              "settings": {
+                                                  "theme": "light"
+                                              },
+                                              "richText": [
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "Simplify your stack"
+                                                          }
+                                                      ],
+                                                      "type": "h2"
+                                                  },
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "Payload is fully extensible, allowing you to prioritize requirements, reduce development costs, and avoid the bloat—along with vendor lock-in."
+                                                          }
+                                                      ]
+                                                  },
+                                                  {
+                                                      "type": "br",
+                                                      "children": [
+                                                          {
+                                                              "text": ""
+                                                          }
+                                                      ]
+                                                  },
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "Embrace Payload's open-source flexibility to build on your terms."
+                                                          }
+                                                      ]
+                                                  }
+                                              ],
+                                              "links": [
+                                                  {
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "newTab": true,
+                                                          "reference": {
+                                                              "value": "6362714c8500b86c17b16b78",
+                                                              "relationTo": "pages"
+                                                          },
+                                                          "label": "Schedule a Demo"
+                                                      },
+                                                      "id": "65dcee925087b862a015d8bb"
+                                                  }
+                                              ],
+                                              "assetType": "media",
+                                              "mediaWidth": "medium",
+                                              "backgroundGlow": "none"
+                                          },
+                                          "id": "65dcee315087b862a015d8ba",
+                                          "blockName": "simplify your stack",
+                                          "blockType": "statement"
+                                      },
+                                      {
+                                          "mediaBlockFields": {
+                                              "settings": {
+                                                  "theme": "light"
+                                              },
+                                              "position": "wide",
+                                              "media": "65e212209a2904b291d8e559",
+                                              "caption": [
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": ""
+                                                          }
+                                                      ]
+                                                  }
+                                              ]
+                                          },
+                                          "id": "65e2101e4b89690223d6831a",
+                                          "blockType": "mediaBlock"
+                                      },
+                                      {
+                                          "stickyHighlightsFields": {
+                                              "settings": {
+                                                  "theme": null
+                                              },
+                                              "highlights": [
+                                                  {
+                                                      "richText": [
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "01"
+                                                                  }
+                                                              ],
+                                                              "type": "h6"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "AI"
+                                                                  }
+                                                              ],
+                                                              "type": "h3"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "From translations to dynamic image generation and an intelligent writing assistant, Payload’s AI toolset is thoughtfully engineered to accompany your creative and professional endeavors, not replace them."
+                                                                  }
+                                                              ]
+                                                          },
+                                                          {
+                                                              "type": "p",
+                                                              "children": [
+                                                                  {
+                                                                      "text": ""
+                                                                  }
+                                                              ]
+                                                          }
+                                                      ],
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "6585ae1c50262a9de087c197",
+                                                              "relationTo": "pages"
+                                                          },
+                                                          "label": "Explore"
+                                                      },
+                                                      "type": "media",
+                                                      "codeBlips": [],
+                                                      "media": "65d4fc4e3fe79d9475898331",
+                                                      "id": "65d50994c6ded75f92270caa"
+                                                  },
+                                                  {
+                                                      "richText": [
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "02"
+                                                                  }
+                                                              ],
+                                                              "type": "h6"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "SEO-Native"
+                                                                  }
+                                                              ],
+                                                              "type": "h3"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Beyond unparalleled speed, Payload features a no-frills, Google-informed standard to organically position your content for maximum reach. No black magic, just the best methods to position your content."
+                                                                  }
+                                                              ]
+                                                          }
+                                                      ],
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/plugins/seo#seo-plugin",
+                                                          "label": "Explore"
+                                                      },
+                                                      "type": "media",
+                                                      "codeBlips": [],
+                                                      "media": "65af60cefa327a41786eee3c",
+                                                      "id": "65d510ae66fbfb195279fedd"
+                                                  },
+                                                  {
+                                                      "richText": [
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "03"
+                                                                  }
+                                                              ],
+                                                              "type": "h6"
+                                                          },
+                                                          {
+                                                              "type": "h3",
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Faster A/B testing"
+                                                                  }
+                                                              ]
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Alongside Next.js, Payload is the only platform that statically renders your variant content, not the server."
+                                                                  }
+                                                              ]
+                                                          }
+                                                      ],
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "66674dbf5fdf174caf28af9a",
+                                                              "relationTo": "pages"
+                                                          },
+                                                          "url": "",
+                                                          "label": "Explore"
+                                                      },
+                                                      "type": "media",
+                                                      "codeBlips": [],
+                                                      "media": "667c7b7b7b3d8de2e4f7b7ad",
+                                                      "id": "66842f3fd985e08212e0864c"
+                                                  },
+                                                  {
+                                                      "richText": [
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "04"
+                                                                  }
+                                                              ],
+                                                              "type": "h6"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Form Builder"
+                                                                  }
+                                                              ],
+                                                              "type": "h3"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Directly create forms within your ecosystem, seamlessly integrating with your design system—no more third-party forms, no extra code."
+                                                                  }
+                                                              ]
+                                                          }
+                                                      ],
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/plugins/form-builder",
+                                                          "label": "Explore"
+                                                      },
+                                                      "type": "media",
+                                                      "codeBlips": [],
+                                                      "media": "65e8dad36a766d78dcd8a8d2",
+                                                      "id": "65d50baec6ded75f92270cab"
+                                                  },
+                                                  {
+                                                      "richText": [
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "05"
+                                                                  }
+                                                              ],
+                                                              "type": "h6"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Live Preview"
+                                                                  }
+                                                              ],
+                                                              "type": "h3"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Avoid unnecessary clicks and endless drafts by seeing your work live as you build, and even adjust each breakpoint setting to see how those same changes render on mobile and elsewhere."
+                                                                  }
+                                                              ]
+                                                          }
+                                                      ],
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/live-preview/",
+                                                          "label": "Explore"
+                                                      },
+                                                      "type": "media",
+                                                      "codeBlips": [],
+                                                      "media": "65e8db086a766d78dcd8a996",
+                                                      "id": "65d50d47c6ded75f92270cac"
+                                                  },
+                                                  {
+                                                      "richText": [
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "06"
+                                                                  }
+                                                              ],
+                                                              "type": "h6"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Publishing Workflows"
+                                                                  }
+                                                              ],
+                                                              "type": "h3"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Build a publishing workflow that can be as elaborate or as simple as necessary. Stay informed and enhance collaboration with notifications and inline feedback, delivering content that's not just timely, but meets your standards."
+                                                                  }
+                                                              ]
+                                                          }
+                                                      ],
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "6580ab1a2693ab4da8e670cf",
+                                                              "relationTo": "pages"
+                                                          },
+                                                          "label": "Explore"
+                                                      },
+                                                      "type": "media",
+                                                      "codeBlips": [],
+                                                      "media": "6580fc442693ab4da8e7588e",
+                                                      "id": "65d50f4866fbfb195279fedb"
+                                                  },
+                                                  {
+                                                      "richText": [
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "07"
+                                                                  }
+                                                              ],
+                                                              "type": "h6"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Field-Based Localization"
+                                                                  }
+                                                              ],
+                                                              "type": "h3"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Deep field-based localization support. Maintaining as many locales as you need is easy, and features internationalization support."
+                                                                  }
+                                                              ]
+                                                          }
+                                                      ],
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/configuration/localization",
+                                                          "label": "Explore"
+                                                      },
+                                                      "type": "code",
+                                                      "code": "import { buildConfig } from 'payload/config'\n\nexport default buildConfig({\n  collections: [\n    // collections go here\n  ],\n  localization: {\n    locales: [\n      {\n        label: 'English',\n        code: 'en',\n      },\n      {\n        label: 'Arabic',\n        code: 'ar',\n        // set default text-alignment on Input fields\n        // to rtl (right-to-left) when current locale is rtl\n        rtl: true,\n      },\n    ],\n    defaultLocale: 'en',\n    fallback: true,\n  },\n})",
+                                                      "codeBlips": [
+                                                          {
+                                                              "row": 5,
+                                                              "label": "Collections",
+                                                              "feature": [
+                                                                  {
+                                                                      "children": [
+                                                                          {
+                                                                              "text": "Payload Collections are defined through configs of their own, and you can define as many as your application needs. Each Collection will scaffold a new collection automatically in your database of choice, based on fields that you define."
+                                                                          }
+                                                                      ]
+                                                                  }
+                                                              ],
+                                                              "enableLink": true,
+                                                              "link": {
+                                                                  "type": "custom",
+                                                                  "url": "https://payloadcms.com/docs/configuration/collections",
+                                                                  "label": "Learn about Collections"
+                                                              },
+                                                              "id": "65e8809e5912827e86e80380"
+                                                          }
+                                                      ],
+                                                      "id": "65d50fab66fbfb195279fedc"
+                                                  }
+                                              ]
+                                          },
+                                          "id": "65d50819c6ded75f92270ca9",
+                                          "blockType": "stickyHighlights"
+                                      },
+                                      {
+                                          "cardGridFields": {
+                                              "settings": {
+                                                  "theme": "light"
+                                              },
+                                              "richText": [
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "Headless without the heartache"
+                                                          }
+                                                      ],
+                                                      "type": "h2"
+                                                  },
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "Payload has modernized headless CMS, featuring an editing experience with every amenity, none of the bloat, and the extensibility to build what you need."
+                                                          }
+                                                      ]
+                                                  },
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": ""
+                                                          }
+                                                      ]
+                                                  }
+                                              ],
+                                              "links": [
+                                                  {
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "6362714c8500b86c17b16b78",
+                                                              "relationTo": "pages"
+                                                          },
+                                                          "label": "Schedule a Demo"
+                                                      },
+                                                      "id": "65b0266b0e70406332d7af0d"
+                                                  }
+                                              ],
+                                              "cards": [
+                                                  {
+                                                      "title": "Publishing Workflows",
+                                                      "description": "Approval workflows ensure your content doesn't miss a step.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "6580ab1a2693ab4da8e670cf",
+                                                              "relationTo": "pages"
+                                                          }
+                                                      },
+                                                      "id": "65aece5aa032877c50eb9fe4"
+                                                  },
+                                                  {
+                                                      "title": "Localization Support",
+                                                      "description": "Field-based localization simplifies maintenance across all your locales.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/configuration/localization"
+                                                      },
+                                                      "id": "65aecff4a032877c50eb9fe7"
+                                                  },
+                                                  {
+                                                      "title": "Multi-Tenancy",
+                                                      "description": "Share your infrastructure and codebase across multiple tenants.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "649de27d0cc831cc1956bce2",
+                                                              "relationTo": "posts"
+                                                          }
+                                                      },
+                                                      "id": "65aed0ffa032877c50eb9fe9"
+                                                  },
+                                                  {
+                                                      "title": "User Authentication",
+                                                      "description": "Highly secure and customizable user authentication.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/authentication/overview"
+                                                      },
+                                                      "id": "65aed19da032877c50eb9fea"
+                                                  },
+                                                  {
+                                                      "title": "Single Sign-On (SSO)",
+                                                      "description": "Enhance security while modernizing user access.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "6582f8742693ab4da8ed6601",
+                                                              "relationTo": "pages"
+                                                          }
+                                                      },
+                                                      "id": "65aed202a032877c50eb9fec"
+                                                  },
+                                                  {
+                                                      "title": "Extend with React Components",
+                                                      "description": "Payload provides for a pattern to supply your own React components.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/admin/components"
+                                                      },
+                                                      "id": "65b7c5fe34996318d02b7949"
+                                                  },
+                                                  {
+                                                      "title": "Add Custom API Endpoints",
+                                                      "description": "Build custom functionality into Payload.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/rest-api/overview#custom-endpoints"
+                                                      },
+                                                      "id": "65b7c64534996318d02b794a"
+                                                  },
+                                                  {
+                                                      "title": "Audit Logs & Version Control",
+                                                      "description": "Maintain a detailed audit log and roll back when necessary.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/versions/overview"
+                                                      },
+                                                      "id": "65b7c70534996318d02b794c"
+                                                  }
+                                              ]
+                                          },
+                                          "id": "65aece43a032877c50eb9fe3",
+                                          "blockName": "cards",
+                                          "blockType": "cardGrid"
+                                      },
+                                      {
+                                          "reusableContentBlockFields": {
+                                              "settings": {},
+                                              "reusableContent": "636d48b70718c174729d3dc2"
+                                          },
+                                          "id": "65b025620e70406332d7af0c",
+                                          "blockType": "reusableContentBlock"
+                                      }
+                                  ],
+                                  "slug": "headless-cms",
+                                  "meta": {
+                                      "title": "The fastest growing open-source headless CMS | Payload",
+                                      "description": "With tools like visual editing and live preview, Payload is content-first for marketers and code-first for developers.",
+                                      "image": "65e1ee753044e667c2d4bb06"
+                                  },
+                                  "breadcrumbs": [
+                                      {
+                                          "doc": "65dd43d561b3c803918e03d4",
+                                          "url": "/use-cases",
+                                          "label": "Use Cases",
+                                          "id": "66842fd5e10993189bbff972"
+                                      },
+                                      {
+                                          "doc": "65aecafefa327a41786d6431",
+                                          "url": "/use-cases/headless-cms",
+                                          "label": "Headless CMS",
+                                          "id": "66842fd5e10993189bbff973"
+                                      }
+                                  ],
+                                  "_status": "published",
+                                  "createdAt": "2024-01-22T20:07:26.261Z",
+                                  "updatedAt": "2024-07-02T16:50:29.800Z",
+                                  "parent": "65dd43d561b3c803918e03d4"
+                              },
+                              "relationTo": "pages"
+                          },
+                          "label": "Content Management System"
+                      },
+                      "description": "Create with a minimal, powerful editing experience. Extend effortlessly."
+                  },
+                  "featuredLink": {
+                      "links": []
+                  },
+                  "listLinks": {
+                      "links": []
+                  },
+                  "id": "65d4d906e9fe56cf2b5f32f7"
+              },
+              {
+                  "style": "default",
+                  "defaultLink": {
+                      "link": {
+                          "type": "reference",
+                          "reference": {
+                              "value": {
+                                  "id": "65d8c8e5fa0a8be86415cde0",
+                                  "title": "Enterprise App Builder ",
+                                  "fullTitle": "Use Cases > Enterprise App Builder ",
+                                  "hero": {
+                                      "type": "gradient",
+                                      "fullBackground": true,
+                                      "theme": "dark",
+                                      "enableBreadcrumbsBar": true,
+                                      "breadcrumbsBarLinks": [
+                                          {
+                                              "link": {
+                                                  "type": "reference",
+                                                  "newTab": true,
+                                                  "reference": {
+                                                      "value": "6362714c8500b86c17b16b78",
+                                                      "relationTo": "pages"
+                                                  },
+                                                  "label": "Schedule a Demo"
+                                              },
+                                              "id": "65e61b7799ae400aa3e54361"
+                                          }
+                                      ],
+                                      "livestream": {
+                                          "guests": []
+                                      },
+                                      "announcementLink": {
+                                          "type": "reference"
+                                      },
+                                      "richText": [
+                                          {
+                                              "children": [
+                                                  {
+                                                      "text": "Build enterprise apps on your terms."
+                                                  }
+                                              ],
+                                              "type": "h1"
+                                          }
+                                      ],
+                                      "description": [
+                                          {
+                                              "children": [
+                                                  {
+                                                      "text": "Don't surrender to SaaS. Payload is the open-source framework to take back control of your enterprise infrastructure, empowering you to build sophisticated, full-stack solutions on time and under budget."
+                                                  }
+                                              ]
+                                          }
+                                      ],
+                                      "primaryButtons": [],
+                                      "links": [
+                                          {
+                                              "link": {
+                                                  "type": "reference",
+                                                  "reference": {
+                                                      "value": "6362714c8500b86c17b16b78",
+                                                      "relationTo": "pages"
+                                                  },
+                                                  "label": "Schedule a Demo",
+                                                  "appearance": "default"
+                                              },
+                                              "id": "65d8c8e5f9966a7230819ab3"
+                                          }
+                                      ],
+                                      "buttons": [],
+                                      "secondaryButtons": [],
+                                      "images": [
+                                          {
+                                              "image": "65e1489da0d80395c91d3dec",
+                                              "id": "65e1488218151a6e938cb92e"
+                                          }
+                                      ],
+                                      "media": "65d397cfbe4c0211979ab1e2",
+                                      "logos": [],
+                                      "newsletter": {}
+                                  },
+                                  "layout": [
+                                      {
+                                          "reusableContentBlockFields": {
+                                              "settings": {},
+                                              "reusableContent": "6581b3f22693ab4da8e9ab0c"
+                                          },
+                                          "id": "65e1007110a932382b06bafb",
+                                          "blockName": "Microsoft",
+                                          "blockType": "reusableContentBlock"
+                                      },
+                                      {
+                                          "statementFields": {
+                                              "settings": {
+                                                  "theme": "dark"
+                                              },
+                                              "richText": [
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "The sweet spot between custom development and no-code"
+                                                          }
+                                                      ],
+                                                      "type": "h2"
+                                                  },
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "The most progressive companies in the world are using Payload to reinvent their critical content infrastructure, giving them control of their data alongside immediate ROI. "
+                                                          }
+                                                      ]
+                                                  },
+                                                  {
+                                                      "type": "br",
+                                                      "children": [
+                                                          {
+                                                              "text": ""
+                                                          }
+                                                      ]
+                                                  },
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": ""
+                                                          }
+                                                      ]
+                                                  },
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "Embrace Payload's open-source flexibility to build your internal apps, and depart roadblocks and vendor lock-in."
+                                                          }
+                                                      ]
+                                                  }
+                                              ],
+                                              "links": [
+                                                  {
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "6362714c8500b86c17b16b78",
+                                                              "relationTo": "pages"
+                                                          },
+                                                          "label": "Schedule a Demo"
+                                                      },
+                                                      "id": "65da01a7d774e6331d180f74"
+                                                  },
+                                                  {
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "/docs",
+                                                          "label": "Read the Docs"
+                                                      },
+                                                      "id": "65da01b4d774e6331d180f75"
+                                                  }
+                                              ],
+                                              "assetType": "media",
+                                              "mediaWidth": "medium",
+                                              "backgroundGlow": "none"
+                                          },
+                                          "id": "65d911cddd0f0b3582e391da",
+                                          "blockName": "sweet spot",
+                                          "blockType": "statement"
+                                      },
+                                      {
+                                          "stickyHighlightsFields": {
+                                              "settings": {
+                                                  "theme": "dark"
+                                              },
+                                              "highlights": [
+                                                  {
+                                                      "richText": [
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "01"
+                                                                  }
+                                                              ],
+                                                              "type": "h6"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Manage roles with SSO"
+                                                                  }
+                                                              ],
+                                                              "type": "h3"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Upon the first login with corporate credentials, user profiles are automatically generated, effortlessly mapping permissions."
+                                                                  }
+                                                              ]
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "This streamlines user onboarding, enhances security, and ensures dynamic access control."
+                                                                  }
+                                                              ]
+                                                          },
+                                                          {
+                                                              "type": "p",
+                                                              "children": [
+                                                                  {
+                                                                      "text": ""
+                                                                  }
+                                                              ]
+                                                          }
+                                                      ],
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "6582f8742693ab4da8ed6601",
+                                                              "relationTo": "pages"
+                                                          },
+                                                          "label": "Explore SSO"
+                                                      },
+                                                      "type": "media",
+                                                      "codeBlips": [],
+                                                      "media": "65d609aa26bb99d00a487ff4",
+                                                      "id": "65d8c8e5f9966a7230819abf"
+                                                  },
+                                                  {
+                                                      "richText": [
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "02"
+                                                                  }
+                                                              ],
+                                                              "type": "h6"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Code-first flexibility"
+                                                                  }
+                                                              ],
+                                                              "type": "h3"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Central to its functionality, the Payload config efficiently scaffolds data storage, custom React components, hook logic, and more, all with the added benefit of TypeScript's strong typing for enhanced productivity."
+                                                                  }
+                                                              ]
+                                                          }
+                                                      ],
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/configuration/overview",
+                                                          "label": "Explore Payload Config"
+                                                      },
+                                                      "type": "code",
+                                                      "code": "import { buildConfig } from 'payload/config'\nimport { mongooseAdapter } from '@payloadcms/db-mongodb'\n\nimport { viteBundler } from '@payloadcms/bundler-vite'\n\nimport { lexicalEditor } from '@payloadcms/richtext-lexical'\n\nexport default buildConfig({\n  admin: {\n    bundler: webpackBundler(), // Choose your bundler\n  },\n  db: mongooseAdapter({}) // Choose your database\n  editor: lexicalEditor({}) // Choose your rich text editor\n  collections: [\n    // Define your collections\n  ],\n  globals: [\n    // Define your globals\n  ],\n})",
+                                                      "codeBlips": [],
+                                                      "media": "65af60ccfa327a41786eee0c",
+                                                      "id": "65d8c8e5f9966a7230819ac3"
+                                                  },
+                                                  {
+                                                      "richText": [
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "03"
+                                                                  }
+                                                              ],
+                                                              "type": "h6"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Integrate with anything"
+                                                                  }
+                                                              ],
+                                                              "type": "h3"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Payload ships with a fully featured and extensible GraphQL API, alongside REST and Local APIs for more flexibility. Seamlessly integrate with any system or technology, empowering you to build and extend your applications with ease."
+                                                                  }
+                                                              ]
+                                                          }
+                                                      ],
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/",
+                                                          "label": "Explore Docs"
+                                                      },
+                                                      "type": "media",
+                                                      "codeBlips": [],
+                                                      "media": "6672efc6994edf6ec6d928e9",
+                                                      "id": "65d8c8e5f9966a7230819ac7"
+                                                  },
+                                                  {
+                                                      "richText": [
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "04"
+                                                                  }
+                                                              ],
+                                                              "type": "h6"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Publishing workflows"
+                                                                  }
+                                                              ],
+                                                              "type": "h3"
+                                                          },
+                                                          {
+                                                              "children": [
+                                                                  {
+                                                                      "text": "Build a publishing workflow that can be as elaborate or as simple as necessary. Stay informed and enhance collaboration with notifications and inline feedback, delivering content that's not just timely, but meets your standards."
+                                                                  }
+                                                              ]
+                                                          }
+                                                      ],
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "6580ab1a2693ab4da8e670cf",
+                                                              "relationTo": "pages"
+                                                          },
+                                                          "label": "Explore Workflows"
+                                                      },
+                                                      "type": "media",
+                                                      "codeBlips": [],
+                                                      "media": "6580fc442693ab4da8e7588e",
+                                                      "id": "65d8c8e5f9966a7230819acf"
+                                                  }
+                                              ]
+                                          },
+                                          "id": "65d8c8e5f9966a7230819aaf",
+                                          "blockType": "stickyHighlights"
+                                      },
+                                      {
+                                          "cardGridFields": {
+                                              "settings": {
+                                                  "theme": null
+                                              },
+                                              "richText": [
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "Build full-stack solutions in a fraction of the time."
+                                                          }
+                                                      ],
+                                                      "type": "h2"
+                                                  },
+                                                  {
+                                                      "children": [
+                                                          {
+                                                              "text": "More than just an admin panel, utilize the power of Payload to scaffold your entire full-stack for new enterprise initiatives."
+                                                          }
+                                                      ]
+                                                  }
+                                              ],
+                                              "links": [
+                                                  {
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "6362714c8500b86c17b16b78",
+                                                              "relationTo": "pages"
+                                                          },
+                                                          "label": "Schedule a Demo"
+                                                      },
+                                                      "id": "65d8c8e5f9966a7230819ad5"
+                                                  }
+                                              ],
+                                              "revealDescription": true,
+                                              "cards": [
+                                                  {
+                                                      "title": "Publishing Workflows",
+                                                      "description": "Approval workflows ensure your content doesn't miss a step.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "6580ab1a2693ab4da8e670cf",
+                                                              "relationTo": "pages"
+                                                          }
+                                                      },
+                                                      "id": "65d8c8e5f9966a7230819ad7"
+                                                  },
+                                                  {
+                                                      "title": "Localization Support",
+                                                      "description": "Field-based localization simplifies maintenance across all your locales.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/configuration/localization"
+                                                      },
+                                                      "id": "65d8c8e5f9966a7230819ad9"
+                                                  },
+                                                  {
+                                                      "title": "Multi-Tenancy",
+                                                      "description": "Share your infrastructure and codebase across multiple tenants.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "649de27d0cc831cc1956bce2",
+                                                              "relationTo": "posts"
+                                                          }
+                                                      },
+                                                      "id": "65d8c8e5f9966a7230819adb"
+                                                  },
+                                                  {
+                                                      "title": "User Authentication",
+                                                      "description": "Highly secure and customizable user authentication.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/authentication/overview"
+                                                      },
+                                                      "id": "65d8c8e5f9966a7230819add"
+                                                  },
+                                                  {
+                                                      "title": "Single Sign-On (SSO)",
+                                                      "description": "Enhance security while modernizing user access.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "reference",
+                                                          "reference": {
+                                                              "value": "6582f8742693ab4da8ed6601",
+                                                              "relationTo": "pages"
+                                                          }
+                                                      },
+                                                      "id": "65d8c8e5f9966a7230819adf"
+                                                  },
+                                                  {
+                                                      "title": "Extend with React Components",
+                                                      "description": "Payload provides for a pattern to supply your own React components.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/admin/components"
+                                                      },
+                                                      "id": "65d8c8e5f9966a7230819ae1"
+                                                  },
+                                                  {
+                                                      "title": "Add Custom API Endpoints",
+                                                      "description": "Build custom functionality into Payload.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/rest-api/overview#custom-endpoints"
+                                                      },
+                                                      "id": "65d8c8e5f9966a7230819ae3"
+                                                  },
+                                                  {
+                                                      "title": "Audit Logs & Version Control",
+                                                      "description": "Maintain a detailed audit log and roll back when necessary.",
+                                                      "enableLink": true,
+                                                      "link": {
+                                                          "type": "custom",
+                                                          "url": "https://payloadcms.com/docs/versions/overview"
+                                                      },
+                                                      "id": "65d8c8e5f9966a7230819ae5"
+                                                  }
+                                              ]
+                                          },
+                                          "id": "65d8c8e5f9966a7230819ab0",
+                                          "blockName": "cards",
+                                          "blockType": "cardGrid"
+                                      },
+                                      {
+                                          "reusableContentBlockFields": {
+                                              "settings": {},
+                                              "reusableContent": "636d48b70718c174729d3dc2"
+                                          },
+                                          "id": "65d8c8e5f9966a7230819ab1",
+                                          "blockName": "Enterprise",
+                                          "blockType": "reusableContentBlock"
+                                      }
+                                  ],
+                                  "slug": "enterprise-app-builder",
+                                  "meta": {
+                                      "title": "Build fast, secure, enterprise apps with open-source reliability | Payload",
+                                      "description": "Choose Payload as your open-source solution to build anything for your enterprise company, and take back your content infrastructure.",
+                                      "image": "65e894b489978aecfc155588"
+                                  },
+                                  "breadcrumbs": [
+                                      {
+                                          "doc": "65dd43d561b3c803918e03d4",
+                                          "url": "/use-cases",
+                                          "label": "Use Cases",
+                                          "id": "667c3a22bf351782dce1a8d3"
+                                      },
+                                      {
+                                          "doc": "65d8c8e5fa0a8be86415cde0",
+                                          "url": "/use-cases/enterprise-app-builder",
+                                          "label": "Enterprise App Builder ",
+                                          "id": "667c3a22bf351782dce1a8d4"
+                                      }
+                                  ],
+                                  "_status": "published",
+                                  "createdAt": "2024-02-23T16:33:41.925Z",
+                                  "updatedAt": "2024-06-26T15:56:18.838Z",
+                                  "parent": "65dd43d561b3c803918e03d4"
+                              },
+                              "relationTo": "pages"
+                          },
+                          "label": "Enterprise App Builder"
+                      },
+                      "description": "Build sophisticated enterprise tools while reducing development costs."
+                  },
+                  "featuredLink": {
+                      "links": []
+                  },
+                  "listLinks": {
+                      "links": []
+                  },
+                  "id": "65d4d974e9fe56cf2b5f32f8"
+              }
+          ],
+          "id": "65d4d889e9fe56cf2b5f32f5"
+      },
+
+      {
+          "label": "Docs",
+          "enableDirectLink": true,
+          "link": {
+              "type": "custom",
+              "newTab": false,
+              "url": "/docs"
+          },
+          "descriptionLinks": [],
+          "navItems": [
+              {
+                  "style": "featured",
+                  "defaultLink": {
+                      "link": {
+                          "type": "custom",
+                          "url": "https://github.com/payloadcms/payload",
+                          "label": "GitHub"
+                      }
+                  },
+                  "featuredLink": {
+                      "links": [
+                          {
+                              "link": {
+                                  "type": "custom",
+                                  "url": "https://github.com/payloadcms/payload",
+                                  "label": "GitHub"
+                              },
+                              "id": "65d55a9dfa96b45f5e85af05"
+                          }
+                      ]
+                  },
+                  "listLinks": {
+                      "links": []
+                  },
+                  "id": "65d559a4a4b1c51621f5bbdb"
+              }
+          ],
+          "id": "65d5599ca4b1c51621f5bbda"
+      }
+  ],
+  "id": "6356ebbc6ad5ce88fb581531"
+}

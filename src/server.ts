@@ -1,12 +1,12 @@
 import express from 'express'
 import nodemailerSendgrid from 'nodemailer-sendgrid'
 import payload from 'payload'
-
+import nodemailer from 'nodemailer'
 import { syncToAlgoliaCron } from './collections/CommunityHelp/syncToAlgolia'
-
+import { payloadCloudEmail  } from './resend'
 // eslint-disable-next-line
 require('dotenv').config()
-
+type TransportArgs = Parameters<typeof nodemailer.createTransport>[0]
 const app = express()
 
 // Redirect root to Admin panel
@@ -27,11 +27,21 @@ const start = async (): Promise<void> => {
   await payload.init({
     secret: process.env.PAYLOAD_SECRET,
     express: app,
-    email: {
-      fromName: 'Payload CMS',
-      fromAddress: 'info@payloadcms.com',
-      ...sendgridConfig,
-    },
+
+    email:
+    //@ts-ignore
+    payloadCloudEmail({
+      fromName:"Mads",
+      defaultDomain:"mapstory.io",
+      apiKey: process.env.RESEND_API_KEY || '',
+    }),
+    /*
+     resendAdapter({
+      defaultFromAddress: 'dev@payloadcms.com',
+      defaultFromName: 'Payload CMS',
+      apiKey: process.env.RESEND_API_KEY || '',
+    }),
+    */
     onInit: () => {
       payload.logger.info(`Payload Admin URL: ${payload.getAdminURL()}`)
     },
