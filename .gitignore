@@ -168,5 +168,5 @@ dist
 # Apple MacOS operating system
 .DS_Store
 
-media
+#media
 build
