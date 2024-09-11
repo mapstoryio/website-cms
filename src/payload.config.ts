@@ -36,6 +36,7 @@ dotenv.config({
 const mockModulePath = path.resolve(__dirname, './emptyModuleMock.js')
 
 export default buildConfig({
+//  serverURL:"https://demo.mapstory.io",
   rateLimit: {
     trustProxy: true,
     max: 4000,
@@ -148,7 +149,7 @@ export default buildConfig({
       collections: ['case-studies', 'pages', 'posts'],
     }),
   ],
-  cors:["https://demo.mapstory.io"],//[process.env.PAYLOAD_PUBLIC_APP_URL || '', 'https://payloadcms.com'].filter(Boolean),
+  cors:["https://demo.mapstory.io","https://mapstory.io", "https://website-cms.mapstory.io"],//[process.env.PAYLOAD_PUBLIC_APP_URL || '', 'https://payloadcms.com'].filter(Boolean),
   admin: {
     bundler: webpackBundler(),
     webpack: config => ({
